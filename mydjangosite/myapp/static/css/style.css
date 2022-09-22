@@ -1,0 +1,38 @@
+*{
+padding:0;
+margin:0;
+box-sizing: border-box;
+}
+.menu{
+   
+    padding: 40px 0px 30px 0;
+    background: blue;
+}
+.menu-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    gap: 20px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.hero {
+    padding: 50px 0 50px 0;
+}
+.hero-content{
+    align-items: center;
+    justify-content: center;
+}
+.primary-btn{
+width: 100px;
+height: 50px;
+background: blue;
+color: white;
+}
+
